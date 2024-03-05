@@ -1,0 +1,14 @@
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.AssemblyInfoInputs.cache
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.AssemblyInfo.cs
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\bin\Debug\net6.0\assignment1.exe
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\bin\Debug\net6.0\assignment1.deps.json
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\bin\Debug\net6.0\assignment1.runtimeconfig.json
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\bin\Debug\net6.0\assignment1.dll
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\bin\Debug\net6.0\assignment1.pdb
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.dll
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\refint\assignment1.dll
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.pdb
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\assignment1.genruntimeconfig.cache
+C:\Users\hugoj\source\repos\week6(secondTerm)\assignment1\obj\Debug\net6.0\ref\assignment1.dll
